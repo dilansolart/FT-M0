@@ -16,7 +16,7 @@ body {
     height: 600px;
     width: 500px;
     padding: 50px;
-    border: 20px solid rgba(88, 88, 18, 0.445);
+    border: 5px solid rgba(88, 88, 18, 0.445);
     margin: 0 auto;
 }
 #spanId {
