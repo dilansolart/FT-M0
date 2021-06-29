@@ -1,12 +1,23 @@
+body {
+    background-color: #ffdd90;
+    background-image: url("https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/08/inteligencia-artificial.jpg");
+    display:block;
+    margin: auto;
+
+}
 .divClass {
-    background: rgb(37, 230, 53);
+    background: rgba(0, 0, 0, 0.685);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
 }
 #thirdDiv {
-    background: rgb(92, 188, 243);
+    background: rgba(92, 188, 243, 0.295);
     height: 600px;
     width: 500px;
     padding: 50px;
-    border: 20px solid yellow;
+    border: 20px solid rgba(88, 88, 18, 0.445);
+    margin: 0 auto;
 }
 #spanId {
     border: 50px solid black;
@@ -15,6 +26,14 @@
 h1 {
     color: rgb(63, 71, 184);
 }
+h3 {
+    color: rgb(255, 255, 255);
+}
+h4 {
+    color: rgb(255, 255, 255);
+}
 img {
     width: 400px;
+    display:block;
+    margin:auto;
 }
