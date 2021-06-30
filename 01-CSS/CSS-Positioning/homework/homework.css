@@ -19,8 +19,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 3: */
 #ejercicioTres {
     position: relative;
-    margin-top: 100px;
-    margin-left: 200px;
+    top: 100px;
+    left: 200px;
 }
 
 /* Ejercicio 4: */
