@@ -8,8 +8,11 @@ function deObjetoAmatriz(objeto){
       D: 1,
       B: 2,
       C: 3
-    }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
-  //Escribe tu código aquí
+  }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
+  
+  for (var i = 0; i < length; i++) {
+
+  }
 }
 
 
